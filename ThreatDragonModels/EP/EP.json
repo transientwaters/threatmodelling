@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "EP",
+    "owner": "Matthew Waters",
+    "description": "This is a core application in the eco-system"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "TEST",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "AM"
+  }
+}
